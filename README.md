@@ -1,9 +1,26 @@
 # Tugas-Pertemuan-2-Pemograman-Web-2-membuat-layout-sederhana
 
-NAMA : M. AKMAL AL ABDILAH<p> 
-NIM :312110034<p> 
-KELAS :TI.21.A.1<p> 
-MATKUL : Pemograman Web 2<p> 
+ <h3>Biodata Mahasiswa</h3>           
+    <table>
+        <p><tr>
+               <td>Kelas</td>
+               <td>:</td>
+               <td>TI.21.A.1</td>
+               <td>&nbsp;</td>
+       </tr></p>
+       <p><tr>
+               <td>Nama</td>
+               <td>:</td>
+               <td>M. AKMAL AL ABDILAH</td>
+               <td>&nbsp;</td>
+       </tr></p>
+       <p><tr>
+               <td>Nim</td>
+               <td>:</td>
+               <td>312110034</td>
+               <td>&nbsp;</td>
+       </tr></p>
+       </table>
 
 Assalam'mulaikum wr wb. <p> 
 
