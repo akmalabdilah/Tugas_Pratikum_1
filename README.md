@@ -33,7 +33,7 @@ Di atas adalah tampilan program sesuai apa yang di perintahkan contoh prastikum 
 ![Gambar 9](screenshoot/9.JPG)
 ![Gambar 10](screenshoot/10.JPG)
 
-Oke jika kalian penasaran kalian bisa mencobanya langsung dengan scrip coding di file atas untuk file coding1 tampilan outputnya tang paling atas sedangkan file coding2 tampilan oupunta dibawah tampilan output file coding1 dan maaf jika saya belum bisa menjelaskan setep baiytep codingnya karna kurangnya, ilmu saya tapi inssayallah untuk kedepannya saya akan meningkatkannya terimakasih telah membaca hingga titik ini kurang lebih saya mohon maaf.<p>
+Oke jika kalian penasaran kalian bisa mencobanya langsung dengan scrip coding di file atas untuk file coding1 tampilan outputnya gambar paling atas sedangkan file coding2 tampilan outputnya gambar dibawah gambar paling atas tampilan output file coding2 dan maaf jika saya belum bisa menjelaskan setep baiytep codingnya karna kurangnya, ilmu saya tapi inssayallah untuk kedepannya saya akan meningkatkannya terimakasih telah membaca hingga titik ini kurang lebih saya mohon maaf.<p>
 
 Assalam'mualaikum wr wb<p>
 
