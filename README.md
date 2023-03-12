@@ -1,6 +1,6 @@
 # Tugas-Pertemuan-2-Pemograman-Web-2-membuat-layout-sederhana
 
-Nama : M. AKMAL AL ABDILAH<p> 
+NAMA : M. AKMAL AL ABDILAH<p> 
 NIM :312110034<p> 
 KELAS :TI.21.A.1<p> 
 MATKUL : Pemograman Web 2<p> 
